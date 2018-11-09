@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tasa Converter</string>
+    <string name="title_activity_moneda_list">MonedaListActivity</string>
+</resources>
